@@ -26,11 +26,10 @@ The application integrates **Groq's LLaMA 3.3 70B model** to:
 
 **Why Groq?**
 
-- ✅ **100% FREE** - No credit card required
-- ✅ **Fast responses** - Lightning-fast inference
-- ✅ **Generous rate limits** - 30 requests/minute (14,400/day)
-- ✅ **No CORS issues** - Works perfectly in browsers
-- ✅ **Powerful model** - LLaMA 3.3 70B provides excellent quality responses
+- **Fast responses** - Lightning-fast inference
+- **Generous rate limits** - 30 requests/minute (14,400/day)
+- **No CORS issues** - Works perfectly in browsers
+- **Powerful model** - LLaMA 3.3 70B provides excellent quality responses
 
 The AI acts as a supportive first-line assistant, using its training to recognize common student stressors and suggest evidence-based coping strategies, study techniques, and wellness practices.
 
